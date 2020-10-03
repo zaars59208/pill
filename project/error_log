@@ -1,0 +1,1 @@
+[23-Sep-2020 11:16:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:/xampp/htdocs/otp_website/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/litostschoolerp/public_html/project/application/controllers/Otp.php on line 56
